@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+nav{
+    background-color: hsl(200deg 23.81% 12.35%);
+}
+
+/* section start here */
+.title{
+    color: rgba(16, 5, 50, 0.8);
+}
+.content{
+    color: rgba(38, 57, 164, 0.8);
+}
+
+
+.portfolio_items:hover{
+    background-color: yellow;
+}
+.portfolio_items a{
+    color: rgba(38, 57, 164, 0.8);
+}
+.portfolio_items a:hover{
+    color: white;
+}
+.protfolio_image{
+    width: 370px;
+    height: 200px;
+}
+
+.section4_image{
+    width: 570px;
+    height: 320px;
+}
+.section6_image{
+    width: 500px;
+    height: 400px;
+}
+
+.card_images{
+    width: 300px;
+    height: 250px;
+}
